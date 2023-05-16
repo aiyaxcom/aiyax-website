@@ -1,0 +1,27 @@
+<svg height="200" version="1.1" width="800" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" viewBox="0 0 600 442" xmlns:xlink="http://www.w3.org/1999/xlink"><desc>Created with Snap</desc><defs/><g id="root" contentwidth="480.00000000000006" contentheight="77.31162102146558">
+          <rect class="background" height="2000%" width="2000%" y="-1000%" x="-1000%" style="" fill="#ffffff"/>
+          <g class="content" id="content" transform="matrix(0.7106,0,0,0.7106,58.7209,256.6714)">
+            <g class="icon">
+            <g id="iconGroupId"><svg height="41.4" version="1.1" width="41.4" xmlns="http://www.w3.org/2000/svg" x="569.4499999999999" y="-85.19999999999999"><desc>Created with Snap</desc><defs/><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" version="1.1">
+    <path d="M760.384 64c47.808 0 91.968 11.968 132.352 35.84a264.32 264.32 0 0 1 95.872 97.152A263.68 263.68 0 0 1 1024 330.88c0 34.752-6.592 68.544-19.712 101.312a262.4 262.4 0 0 1-57.536 87.424L512 960 77.248 519.68A268.8 268.8 0 0 1 0 330.88c0-48.384 11.776-93.056 35.392-133.952A264.32 264.32 0 0 1 131.2 99.84 255.296 255.296 0 0 1 263.68 64 260.736 260.736 0 0 1 449.92 142.208l62.08 62.912 62.144-62.912a258.944 258.944 0 0 1 86.336-58.24A259.584 259.584 0 0 1 760.512 64h-0.128z" fill="#ff5722"/>
+</svg></svg></g></g>
+            <g id="icon_name_and_slogan_gap">
+            </g>
+            <g class="name_and_slogan" id="name_and_slogan_id">
+              <g class="name"><g id="nameDefaultGroup"><path d="M76.8 -22.6L38.4 -22.6L30.6 1.4L1.8 1.4L40.8 -104.6L74 -104.6L114.6 1.4L84.6 1.4L76.8 -22.6M71 -40.8L57.8 -81.4L44.4 -40.8L71 -40.8M128.8 -104.4L156 -104.4L156 1.6L128.8 1.6L128.8 -104.4M170.8 -104.2L200 -104.2L224.2 -67.2L247.4 -104.2L276.6 -104.2L237 -39.4L237 1.8L211 1.8L211 -39L170.8 -104.2M356.8 -22.6L318.4 -22.6L310.6 1.4L281.8 1.4L320.8 -104.6L354 -104.6L394.6 1.4L364.6 1.4L356.8 -22.6M351 -40.8L337.8 -81.4L324.4 -40.8L351 -40.8M398.4 2L435.8 -52.8L400 -104.6L430.6 -104.6L452.4 -71.8L473.4 -104.6L504.4 -104.6L469.6 -52.8L505.2 2L472.8 2L452.2 -32.4L429.8 2L398.4 2" style="" fill="#0bb0d1"/><path d="M507.4 4.2L507.4 -8.6L520.8 -8.6L520.8 4.2L507.4 4.2M526.1 -38.8L567.8 -38.8L567.8 -24.6L555.6 -24.6L555.6 -29.4L538.5 -29.4L538.5 -8.6L555 -8.6L556 -12.2L568.1 -12.2L565.2 0.9L526.1 0.9L526.1 -38.8M575.4 0.9L575.4 -38.8L616.8 -38.8L616.8 0.9L575.4 0.9M603.7 -29.3L587.8 -29.3L587.8 -8.2L603.7 -8.2L603.7 -29.3M664.6 0.9L664.6 -29.2L656.8 -29.2L656.8 0.9L644.1 0.9L644.1 -29.2L636.3 -29.2L636.3 0.9L623.8 0.9L623.8 -38.9L677.3 -38.9L677.3 0.9L664.6 0.9" style="" fill="#0bb0d1"/></g></g>
+              <g class="slogan"><g id="sloganDefaultGroup"/></g>
+            </g>
+            <g class="border">
+            </g>
+          </g>
+          
+          <defs id="defs">
+            <mask xmlns="http://www.w3.org/2000/svg" id="mask">
+                <rect id="showAll" fill="white" x="0" y="0" width="0" height="0"/>
+                <rect id="hideNameBg" fill="black" x="0" y="0" width="0" height="0" stroke-width="2" stroke="black"/>
+                <rect id="hideSloganBg" fill="black" x="0" y="0" width="0" height="0" stroke-width="2" stroke="black"/>
+            </mask>
+          </defs>
+          
+        </g>
+        </svg>
