@@ -13,11 +13,13 @@ enableRobotsTXT = true
 [languages]
 [languages.en]
 # title = "Make technology services accessible to the masses"
+languageName = "English"
 weight = 1
 contentDir = "content/en"
 # languageDirection = 'rtl' for Right-To-Left languages
 [languages.cn]
 # title = "让科技服务普罗大众"
+languageName = "简体中文"
 weight = 2
 contentDir = "content/cn"
 
@@ -35,6 +37,8 @@ description = "The last theme you'll ever need. Maybe."
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-navy"
 recent_posts_number = 3
+record_number = "鲁ICP备2023017100号-1"
+record_number_link = "https://beian.miit.gov.cn/"
 
 # [[params.ananke_socials]]
 # name = "twitter"
