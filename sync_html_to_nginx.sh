@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rsync -a ./public/ ../nginx/html/
+rsync -a ./public/ /opt/aiyax-service/html/
