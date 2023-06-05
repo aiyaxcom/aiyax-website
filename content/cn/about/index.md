@@ -1,11 +1,17 @@
 ---
-title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
-menu:
-main:
+
+title: "关于"
 weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+欢迎来到我们的网站！
+
+我们是一个由一群有着丰富经验的资深开发和测试人员组成的团队，曾在欧洲各大企业工作，对于国际团队合作拥有充分的了解和经验。
+
+我们团队十分专业，并拥有十年金融相关产品研发经验。我们非常注重每个细节和每个产品的性能与稳定性。为了确保产品的质量，我们会使用最新的开发、测试和运维技术，如DevOps、云原生、微服务架构（MSA）和Kubernetes等，尽最大努力为用户提供最佳的体验。
+
+除了技术能力，商务英语也是我们团队的一项重要优势。我们能够用流利的英语与客户进行良好的沟通，确保项目进展顺利，满足合作伙伴的需求。
+
+如果您有任何与我们合作或咨询的问题，请随时发送邮件至 jason.wang@aiyax.com，我们会尽快回复您的邮件并与您联系。
+
+感谢您对我们团队的关注，我们期待着与您的合作！

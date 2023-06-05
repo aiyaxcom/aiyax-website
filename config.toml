@@ -41,7 +41,34 @@ record_number = "鲁ICP备2023017100号-1"
 record_number_link = "https://beian.miit.gov.cn/"
 
 [[menu.main]]
+name = "首页"
+url = "/"
+identifier = "home"
+weight = 1
+
+[[menu.main]]
 name = "公告"
 url = "/announcement"
 identifier = "announcement"
-weight = 1
+weight = 2
+
+[[menu.main]]
+name = "关于"
+url = "/about"
+identifier = "about"
+weight = 3
+
+[[Language.en.menu.main]]
+name = "Home"
+url = "/en/"
+identifier = "home"
+
+[[Language.en.menu.main]]
+name = "Announcement"
+url = "/en/announcement"
+identifier = "announcement"
+
+[[Language.en.menu.main]]
+name = "About"
+url = "/en/about"
+identifier = "about"

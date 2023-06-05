@@ -5,6 +5,16 @@
     <loc>https://aiyax.com/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aiyax.com/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://aiyax.com/about/"
+                />
   </url><url>
     <loc>https://aiyax.com/announcement/</loc>
     <lastmod>2023-06-04T11:27:38+08:00</lastmod>
