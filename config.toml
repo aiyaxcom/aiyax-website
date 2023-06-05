@@ -40,6 +40,8 @@ recent_posts_number = 3
 record_number = "鲁ICP备2023017100号-1"
 record_number_link = "https://beian.miit.gov.cn/"
 
-# [[params.ananke_socials]]
-# name = "twitter"
-# url = "https://twitter.com/GoHugoIO"
+[[menu.main]]
+name = "公告"
+url = "/announcement"
+identifier = "announcement"
+weight = 1
