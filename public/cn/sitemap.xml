@@ -16,18 +16,18 @@
                 href="https://aiyax.com/about/"
                 />
   </url><url>
-    <loc>https://aiyax.com/announcement/</loc>
-    <lastmod>2023-06-04T11:27:38+08:00</lastmod>
+    <loc>https://aiyax.com/announcement/chatgpt-user-manual/</loc>
+    <lastmod>2023-07-06T14:07:38+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://aiyax.com/announcement/use-aiyax-instead-of-aijox/</loc>
-    <lastmod>2023-06-04T11:27:38+08:00</lastmod>
+    <loc>https://aiyax.com/announcement/</loc>
+    <lastmod>2023-07-06T14:07:38+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://aiyax.com/</loc>
-    <lastmod>2023-06-04T11:27:38+08:00</lastmod>
+    <lastmod>2023-07-06T14:07:38+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -40,6 +40,11 @@
                 hreflang="cn"
                 href="https://aiyax.com/"
                 />
+  </url><url>
+    <loc>https://aiyax.com/announcement/use-aiyax-instead-of-aijox/</loc>
+    <lastmod>2023-06-04T11:27:38+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://aiyax.com/categories/</loc>
     <changefreq>monthly</changefreq>

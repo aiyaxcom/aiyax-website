@@ -3,6 +3,8 @@ title: "备用域名aijox.com将于6月7日停止服务"
 date: 2023-06-04T11:27:38+08:00
 author: "Jason Wang"
 draft: false
+summary: "备用域名aijox.com将于6月7日停止服务，请继续使用aiyax.com"
+read_more_copy: "阅读全文"
 ---
 5月24日，aiyax.com提交了备案申请，同时被要求停止域名解析，否则无法通过备案。
 
