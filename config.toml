@@ -39,6 +39,7 @@ background_color_class = "bg-navy"
 recent_posts_number = 3
 record_number = "鲁ICP备2023017100号-1"
 record_number_link = "https://beian.miit.gov.cn/"
+env = "production"
 
 [[menu.main]]
 name = "首页"
