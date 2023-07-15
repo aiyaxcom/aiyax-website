@@ -54,10 +54,16 @@ identifier = "announcement"
 weight = 2
 
 [[menu.main]]
+name = "杂谈"
+url = "/talk"
+identifier = "talk"
+weight = 3
+
+[[menu.main]]
 name = "关于"
 url = "/about"
 identifier = "about"
-weight = 3
+weight = 4
 
 [[Language.en.menu.main]]
 name = "Home"
@@ -68,6 +74,11 @@ identifier = "home"
 name = "Announcement"
 url = "/en/announcement"
 identifier = "announcement"
+
+[[Language.en.menu.main]]
+name = "Talk"
+url = "/en/talk"
+identifier = "talk"
 
 [[Language.en.menu.main]]
 name = "About"

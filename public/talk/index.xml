@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杂谈 on AIYAX</title>
+    <link>https://aiyax.com/talk/</link>
+    <description>Recent content in 杂谈 on AIYAX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>aiyax.com</copyright>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aiyax.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>客服难，难于上青天</title>
+      <link>https://aiyax.com/talk/hard-to-find-customer-service/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiyax.com/talk/hard-to-find-customer-service/</guid>
+      <description>最近《长安三万里》又向大家普及了唐诗文化，本文题目改谪仙人李白代表作《蜀道难》的第一句用来表达在互联网上找寻客服的困难。</description>
+    </item>
+    
+  </channel>
+</rss>
