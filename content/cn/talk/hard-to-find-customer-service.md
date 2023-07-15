@@ -7,7 +7,7 @@ summary: "最近《长安三万里》又向大家普及了唐诗文化，本文�
 read_more_copy: "阅读全文"
 ---
 
-7月11号，公众号文章被删，没有详细说明，没有申诉渠道，只有一句话：违反[《互联网用户公众账号信息服务管理规定》](https://mp.weixin.qq.com/cgi-bin/announce?token=1376814313&action=getannouncement&key=11667979096lDLmy&version=1&lang=zh_CN&platform=2)。
+7月11号，公众号文章[《免费 ChatGPT 使用指南》](https://mp.weixin.qq.com/s?__biz=MzIyNTA0OTg2Mw==&mid=2651198726&idx=1&sn=53cea1feaef2571a960c2e9ddf326440&chksm=f3f7196ec48090780d666ec4487457399367a7c4022d55f7b1dca69779af7576fee74f98f306&scene=21&token=1315764764&lang=zh_CN#wechat_redirect)被删，没有详细说明，没有申诉渠道，只有一句话：违反[《互联网用户公众账号信息服务管理规定》](https://mp.weixin.qq.com/cgi-bin/announce?token=1376814313&action=getannouncement&key=11667979096lDLmy&version=1&lang=zh_CN&platform=2)。
 
 ![公众号文章被删](/images/20230712/remove-article.png)
 
@@ -18,6 +18,8 @@ read_more_copy: "阅读全文"
 ![申诉入口说明](/images/20230712/appeal-intro.png)
 
 可是，我收的站内信根本就没有申诉两个字。
+
+**这很难不让人气愤，写作者信任微信公众平台，才会有动力去辛苦码字，花费数天时间数千字发布在这里，让人一句违反规定就删除了，并且还让人不得详情、无法申诉，请审核人员尊重一下创作者，更尊重一下自己手中的权力。**
 
 这不得不令人唏嘘，腾讯素来以产品能力强悍著称，微信更是由第一代五星级产品经理张小龙一手打造。他是我最佩服的三个程序员之一，另外两个是刘慈欣和石进。按照时间推算，这两年在一线主导工作的产品经理应该到了三代目，就是这么砸招牌的吗？
 
@@ -66,4 +68,6 @@ read_more_copy: "阅读全文"
 个人建议可以学习一下政府，12345热线是我遇到的寻找最便利、态度最好的客服。
 
 政府尚且如此，企业为什么要拒人于门外呢？
+
+[公众号原文](https://mp.weixin.qq.com/s?__biz=MzIyNTA0OTg2Mw==&mid=2651198765&idx=1&sn=46726dd42954cc3c5d12c7acb0467209&chksm=f3f71945c4809053f02447b8cd73309b80f6a8ed27a610e08b6a7ff96da0e21b6fd15499f9d9&token=1315764764&lang=zh_CN#rd)
 
